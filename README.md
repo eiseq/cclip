@@ -46,7 +46,7 @@ Gentoo package in available in [heather7283-overlay](https://github.com/heather7
 
 #### Void Linux
 
-If you use Void Linux, you can install cclip from the [blackhole-vl(unofficial repo)](https://github.com/Event-Horizon-VL/blackhole-vl)
+If you use Void Linux, you can install cclip from the [blackhole-vl(unofficial repo)](https://github.com/Event-Horizon-VL/blackhole-vl).
 
 ## Usage
 > [!IMPORTANT]
